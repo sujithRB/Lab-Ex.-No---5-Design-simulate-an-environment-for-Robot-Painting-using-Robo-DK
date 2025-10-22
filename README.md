@@ -197,13 +197,12 @@ Home target
 
 
 ##Program:
-/*
- 
 Developed by: 
-RegisterNumber:  
-*/
+RegisterNumber:  2501396
  
+###OUTPUT:
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/771ea638-2ead-43c2-8e1a-c9b700acfedc" />
 
  
 ## Results of simulation :
- 
+ Thus, the design & simulate an environment for Robot Painting Using Robo DK executed successfully 
